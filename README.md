@@ -1,5 +1,3 @@
-# Toko-kita
-“Simple E-Commerce Website for School Project (UPRAK TIK)”
 <!DOCTYPE html><html lang="id">
 <head>
 <meta charset="UTF-8">
